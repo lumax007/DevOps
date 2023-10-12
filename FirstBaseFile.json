@@ -1,18 +1,24 @@
 {
   "Objects": {
-    "savRoles": 
+    "analyticsV1": 
     [
-      "ROLE_ADMIN",
-      "ROLE_ADMIN_SPONSOR"
+      "BootstrapFailedEndpoints",
+      "ExpiredPrivilegedAccounts",
+      "ActivePrivilegedLaunches",
+      "GetEndpointDetail",
+      "EndpointIdDiscoveryDetails",
+      "PAMEnabledAndPlatformServiceAccount",
+      "PAMEndpointWithDomainAccountAsPlatformServiceAccount",
+      "PAMDefaultUserAccountAccessControl",
+      "PAMDefaultUserAccountAccessControlWithAD"
     ]
   },
   "Information": {
-    "GUID": "93bdcf7f-e0d6-44a8-8fc4-b7cda9d52625",
+    "GUID": "d5ff23b1-89c4-4ce3-a980-167c148f5a00",
     "Exported By": "prashant.shrivastava@hm.com",
-    "Exported On": "2023-10-09 19:26:46",
+    "Exported On": "2023-10-09 08:11:58",
     "System": "hnm-dev.saviyntcloud.com",
     "TransferOwners": "0",
-    "TransferUsers": "0",
-    "appVersion": "v2021.0"
+    "TransferUsers": "0"
   }
 }
