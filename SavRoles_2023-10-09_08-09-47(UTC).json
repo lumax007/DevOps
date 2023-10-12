@@ -1,0 +1,218 @@
+{
+  "ROLE_SOD_AUDITOR": {
+    "authority": "ROLE_SOD_AUDITOR",
+    "customproperty1": null,
+    "customproperty10": null,
+    "customproperty11": null,
+    "customproperty12": null,
+    "customproperty13": null,
+    "customproperty14": null,
+    "customproperty15": null,
+    "customproperty16": null,
+    "customproperty17": null,
+    "customproperty18": null,
+    "customproperty19": null,
+    "customproperty2": null,
+    "customproperty20": null,
+    "customproperty3": null,
+    "customproperty4": null,
+    "customproperty5": null,
+    "customproperty6": null,
+    "customproperty7": null,
+    "customproperty8": null,
+    "customproperty9": null,
+    "homepage": null,
+    "isootb": false,
+    "readOnly": false,
+    "roledescription": "SOD AUDITOR",
+    "statuskey": 1,
+    "SAVROLE_DETAIL": {
+      "savRoleDetailConfigMap": {
+      },
+      "accessKeyMap": {
+      }
+    },
+    "CREATE_RQEUEST_HOME_OPTION": {
+      "customTiles": {
+      }
+    },
+    "FEATURE_LIST": 
+    [
+    ],
+    "WEBSERVICE_LIST": 
+    [
+    ]
+  },
+  "ROLE_CUSTOM_END_USER": {
+    "authority": "ROLE_CUSTOM_END_USER",
+    "customproperty1": null,
+    "customproperty10": null,
+    "customproperty11": null,
+    "customproperty12": null,
+    "customproperty13": null,
+    "customproperty14": null,
+    "customproperty15": null,
+    "customproperty16": "",
+    "customproperty17": "",
+    "customproperty18": "",
+    "customproperty19": "",
+    "customproperty2": null,
+    "customproperty20": "",
+    "customproperty3": null,
+    "customproperty4": null,
+    "customproperty5": null,
+    "customproperty6": null,
+    "customproperty7": null,
+    "customproperty8": null,
+    "customproperty9": null,
+    "homepage": null,
+    "isootb": false,
+    "readOnly": null,
+    "roledescription": "COPY OF ROLE_SAV_ENDUSER",
+    "statuskey": 1,
+    "SAVROLE_DETAIL": {
+      "savRoleDetailConfigMap": {
+        "STAT_": "0",
+        "REQ_": "0",
+        "WCAT_": "0"
+      },
+      "accessKeyMap": {
+      }
+    },
+    "CREATE_RQEUEST_HOME_OPTION": {
+      "ARS_M_CHANGEOWNPWD": "1",
+      "customTiles": {
+      },
+      "ARS_M_CHANGEPASSWORDOPTIONS": "1"
+    },
+    "FEATURE_LIST": 
+    [
+      "Home",
+      "Application_Request",
+      "Request_History",
+      "Pending_Approvals",
+      "View_Existing_Access",
+      "Request_Access_for_Self",
+      "home.pendingActions",
+      "home.recentActivity",
+      "Manage_My_Access",
+      "All_Campaign_Certification_Review_Access",
+      "Campaign_Dashboard",
+      "Campaign_List",
+      "Create_Campaign",
+      "Campaign_Export",
+      "Campaign_Summary",
+      "Campaign_Templates_List",
+      "Campaign_Edit_Templates",
+      "Admin:User_Groups",
+      "Admin:Accounts_List",
+      "Change_Password_for_Self",
+      "VIEW_KPI"
+    ],
+    "WEBSERVICE_LIST": 
+    [
+      "pmgmt_passwordResetAPIUser",
+      "pmgmt_resetAPIUserPassword",
+      "webservice_api_v5_sodEvaluation",
+      "webservice_apii_v5_sendEmail",
+      "webservice_api_v5_sapSODEvaluation",
+      "api_jbpm_doSignoffMS",
+      "api_jbpm_workflowaccessreqStartMS",
+      "api_jbpm_discontinueRequestMS",
+      "api_jbpm_getJbpmTaskIdMS",
+      "apiv5fetchCertificationList"
+    ]
+  },
+  "ROLE_CUSTOM_MANAGER": {
+    "authority": "ROLE_CUSTOM_MANAGER",
+    "customproperty1": null,
+    "customproperty10": null,
+    "customproperty11": null,
+    "customproperty12": null,
+    "customproperty13": null,
+    "customproperty14": null,
+    "customproperty15": null,
+    "customproperty16": "",
+    "customproperty17": "",
+    "customproperty18": "",
+    "customproperty19": "",
+    "customproperty2": null,
+    "customproperty20": "",
+    "customproperty3": null,
+    "customproperty4": null,
+    "customproperty5": null,
+    "customproperty6": null,
+    "customproperty7": null,
+    "customproperty8": null,
+    "customproperty9": null,
+    "homepage": null,
+    "isootb": false,
+    "readOnly": null,
+    "roledescription": "COPY OF ROLE_SAV_MANAGER",
+    "statuskey": 1,
+    "SAVROLE_DETAIL": {
+      "savRoleDetailConfigMap": {
+        "STAT_": "0",
+        "REQ_": "1",
+        "WCAT_": "0"
+      },
+      "accessKeyMap": {
+      }
+    },
+    "CREATE_RQEUEST_HOME_OPTION": {
+      "ARS_M_CHANGEOWNPWD": "1",
+      "customTiles": {
+      },
+      "ARS_M_CHANGEPASSWORDOPTIONS": "2"
+    },
+    "FEATURE_LIST": 
+    [
+      "Home",
+      "Request_Access_for_Others",
+      "Request_Access_for_Self",
+      "Create_User_Request",
+      "Update_User_Request",
+      "View_Existing_Access",
+      "Pending_Approvals",
+      "Request_History",
+      "Application_Request",
+      "Request_Access_for_Others__Multi_User",
+      "home.myTeams",
+      "home.pendingActions",
+      "Completed_Tasks",
+      "home.recentActivity",
+      "Manage_My_Access",
+      "Analytics_History_Details",
+      "Analytics_History_Details_V1",
+      "Runtime_Analytics_History_Details",
+      "Runtime_Analytics_V1_History_Details",
+      "Show_Analytics_Flat_History",
+      "Show_Analytics_Flat_History_V1",
+      "Show_Analytics_History",
+      "Show_Analytics_History_V1",
+      "Show_Analytics_Run_History",
+      "Show_Analytics_Run_History_V1",
+      "Show_Analytics_Archive_V1",
+      "Show_Analytics_Archive",
+      "Create_New_Control_Request",
+      "Create_New_Control_Request_V1",
+      "Run_Analytics_Controls_in_Merged_View",
+      "Manage_delegates",
+      "Reset_Account_Password_for_Others",
+      "Change_Password_for_Self"
+    ],
+    "WEBSERVICE_LIST": 
+    [
+      "pmgmt_passwordResetAPIUser",
+      "pmgmt_resetAPIUserPassword",
+      "webservice_api_v5_sodEvaluation",
+      "webservice_apii_v5_sendEmail",
+      "webservice_api_v5_sapSODEvaluation",
+      "api_jbpm_doSignoffMS",
+      "api_jbpm_workflowaccessreqStartMS",
+      "api_jbpm_discontinueRequestMS",
+      "api_jbpm_getJbpmTaskIdMS",
+      "apiv5fetchCertificationList"
+    ]
+  }
+}
