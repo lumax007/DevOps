@@ -1,0 +1,24 @@
+{
+  "Objects": {
+    "analyticsV10": 
+    [
+      "BootstrapFailedEndpoints",
+      "ExpiredPrivilegedAccounts",
+      "ActivePrivilegedLaunches",
+      "GetEndpointDetail",
+      "EndpointIdDiscoveryDetails",
+      "PAMEnabledAndPlatformServiceAccount",
+      "PAMEndpointWithDomainAccountAsPlatformServiceAccount",
+      "PAMDefaultUserAccountAccessControl",
+      "PAMDefaultUserAccountAccessControlWithAD"
+    ]
+  },
+  "Information": {
+    "GUID": "d5ff23b1-89c4-4ce3-a980-167c148f5a00",
+    "Exported By": "prashant.shrivastava@hm.com",
+    "Exported On": "2023-10-09 08:11:58",
+    "System": "hnm-dev.saviyntcloud.com",
+    "TransferOwners": "0",
+    "TransferUsers": "0"
+  }
+}
